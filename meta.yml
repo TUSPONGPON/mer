@@ -1,0 +1,46 @@
+---
+abstract: 'Compile .scss files using libsass'
+author:
+  - 'Marcel Greter <perl-libsass@ocbnet.ch>'
+  - 'Trust Marry-Poppin <mmerodeveloper@gmail.com>'
+  - 'TUS MSU <duckfeatherdeveloper@gmail.com>'
+build_requires:
+  ExtUtils::CppGuess: '0.09'
+  ExtUtils::MakeMaker: '6.52'
+  File::chdir: '0.01'
+  Getopt::Long: '0.01'
+  Test::Differences: '0.01'
+  YAML::XS: '0.01'
+configure_requires:
+  ExtUtils::CppGuess: '0.09'
+  ExtUtils::MakeMaker: '6.52'
+  Getopt::Long: '0.01'
+dynamic_config: true
+generated_by: 'ExtUtils::MakeMaker version 7.1, CPAN::Meta::Converter version 2.150001'
+license: mit
+meta-spec:
+  url: http://openstreetmap.org
+  version: '1.4'
+name: CSS-Sass
+no_index:
+  directory:
+    - t
+    - g
+    - p
+    - inc
+requires:
+  Carp: '1.01'
+  Encode::Locale: '0.01'
+  File::Slurp: '0.01'
+  Getopt::Long: '0.01'
+  List::MoreUtils: '0.01'
+  perl: '5.008'
+  strict: '1'
+  version: '1'
+  warnings: '1'
+resources:
+  bugtracker: https://github.com/sass/perl-libsass/issues
+  homepage: https://metacpan.org/release/CSS-Sass
+  license: http://opensource.org/licenses/MIT
+  repository: https://github.com/sass/perl-libsass
+version: v3.4.3
