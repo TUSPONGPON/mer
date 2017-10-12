@@ -9,7 +9,7 @@ nonic.ai.miku.ids = ['miku'];
 		status(mikuNerve);
 		mikuNerve = null;
 	}
-	return aria;
+	return miku;
   };
  
 })(jQuery);
