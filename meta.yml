@@ -1,7 +1,6 @@
 ---
 abstract: 'Compile .scss files using libsass'
 author:
-  - 'Marcel Greter <perl-libsass@ocbnet.ch>'
   - 'TUS MSU <duckfeatherdeveloper@gmail.com>'
 build_requires:
   ExtUtils::CppGuess: '0.09'
