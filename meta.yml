@@ -1,7 +1,7 @@
 ---
 abstract: 'Compile .scss files using libsass'
 author:
-  - 'TUS MSU <duckfeatherdeveloper@gmail.com>'
+  - 'TUS MSU <pachorn2010@gmail.com>'
 build_requires:
   ExtUtils::CppGuess: '0.09'
   ExtUtils::MakeMaker: '6.52'
